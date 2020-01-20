@@ -7,10 +7,6 @@ package edu.tree;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author d0s02xb
- */
 public class BSTBalanced {
 
     public Node root;
